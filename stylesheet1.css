@@ -1,0 +1,22 @@
+body{
+  background-image: url(wallpaper.jpeg);
+  background-repeat: no-repeat;
+}
+.title{
+
+    text-align: center;
+    font-size: 2rem;
+    padding: 3%;
+    font-family: 'Tapestry';
+
+}
+h1{
+  font-size: 3rem;
+  line-height: 2rem;
+}
+a{
+  text-decoration: none;
+  font-size: 2rem;
+  line-height: 1.5rem;
+  color: black;
+}
